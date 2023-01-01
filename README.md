@@ -2,10 +2,6 @@
 
 A Bitcoin wallet collider that brute forces random wallet addresses
 
-# Like This Project? Give It A Star
-
-[![](https://img.shields.io/github/stars/Isaacdelly/Plutus.svg)](https://github.com/Isaacdelly/Plutus)
-
 # Dependencies
 
 <a href="https://www.python.org/downloads/">Python 3.9</a> or higher
