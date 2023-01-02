@@ -1,4 +1,4 @@
-# Plutus Bitcoin Brute Forcer
+# Plutus Bitcoin Brute Force Script (Python)
 # Made by Isaac Delly
 # https://github.com/Isaacdelly/Plutus
 
